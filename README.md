@@ -9,4 +9,5 @@ IT 서비스 구조를 이해하기 위한 기록입니다.
 - Python for simple automation
 
 ## Goal
-- Prepare for IT company supporter programs
+- Build basic electronics and IoT foundations
+- Connect hardware knowledge with IT services
